@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Neha Afridi 👋
 
-<!--
-**nehaafridi/nehaafridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Cloud Engineer | AWS | Terraform | Ansible | CI/CD | Cloud Security | Network Automation
 
-Here are some ideas to get you started:
+DevOps & Cloud Engineer with 5+ years of experience across cloud infrastructure, network security, automation, and DevOps practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- **Cloud:** AWS
+- **Infrastructure as Code:** Terraform
+- **Automation:** Ansible, Python
+- **CI/CD:** Git, GitHub, CI/CD Pipelines
+- **Containers:** Docker, Kubernetes
+- **Cloud Security:** AWS IAM, VPC, Security Groups, NACLs
+- **Networking:** TCP/IP, Routing, Switching, VPN, Firewalls
+- **Security:** Network Security, Cloud Security
+- **Operating Systems:** Linux
+
+### 🚀 Areas of Interest
+
+- DevOps & Cloud Engineering
+- AWS Cloud Infrastructure
+- Infrastructure as Code
+- CI/CD Automation
+- Cloud Security
+- Network Automation
+
+### 📂 Featured Projects
+
+- CI/CD Docker Pipeline
+- AWS Cloud Security Lab
+- Terraform AWS Infrastructure
+- Ansible Automation
+- Python Network Automation
+
+### 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/neha-afridi-634289409/
+- GitHub: https://github.com/nehaafridi
