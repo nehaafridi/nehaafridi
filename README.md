@@ -39,5 +39,6 @@ Results-driven **Cloud DevOps & AI Infrastructure Engineer** with **4+ years of 
 ### 📫 Let's Connect
 
 * 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+
 * 📧 **Email:** [neha.afridi.it@gmail.com](mailto:neha.afridi.it@gmail.com)
 * 📍 **Location:** Delhi NCR, India (Open to Relocation: Dubai / UAE / Global Remote)
