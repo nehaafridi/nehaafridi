@@ -1,39 +1,43 @@
 # Hi, I'm Neha Afridi 👋
 
-### DevOps & Cloud Engineer | AWS | Terraform | Ansible | CI/CD | Cloud Security | Network Automation
+### Senior Cloud DevOps & AI Infrastructure Engineer | LLMOps | Agentic AI | AWS & Kubernetes
 
-DevOps & Cloud Engineer with 5+ years of experience across cloud infrastructure, network security, automation, and DevOps practices.
+Results-driven **Cloud DevOps & AI Infrastructure Engineer** with **4+ years of experience** architecting scalable, fault-tolerant AWS/Azure environments, automating CI/CD workflows, and orchestrating production-grade **LLMOps and Agentic AI systems**.
 
-### 🛠️ Technical Skills
+🟢 **Status:** Immediate Joiner | Open to Global Remote, India (NCR/Bengaluru), & UAE/GCC Opportunities
 
-- **Cloud:** AWS
-- **Infrastructure as Code:** Terraform
-- **Automation:** Ansible, Python
-- **CI/CD:** Git, GitHub, CI/CD Pipelines
-- **Containers:** Docker, Kubernetes
-- **Cloud Security:** AWS IAM, VPC, Security Groups, NACLs
-- **Networking:** TCP/IP, Routing, Switching, VPN, Firewalls
-- **Security:** Network Security, Cloud Security
-- **Operating Systems:** Linux
+---
 
-### 🚀 Areas of Interest
+### 🚀 Core Expertise & Impact
+* **Agentic AI & LLMOps:** Engineering multi-agent orchestration pipelines using **Python, CrewAI, and LangGraph** to automate compliance tracking and enterprise workflows.
+* **AI Cloud Infrastructure:** Provisioning and scaling GPU-accelerated compute clusters (**AWS EC2 P/G-series, Amazon EKS**) integrated with **AWS Bedrock** and **SageMaker** for hosting and fine-tuning LLMs.
+* **RAG & Vector Databases:** Deploying low-latency Vector Databases (**Pinecone, AWS OpenSearch**) for Retrieval-Augmented Generation (RAG) architectures.
+* **DevOps & Infrastructure as Code:** Standardizing multi-site cloud infrastructure using **Terraform** and **Ansible**, and building automated CI/CD pipelines (**Jenkins, GitHub Actions, MLflow**) that reduced critical incident MTTR by **40%**.
 
-- DevOps & Cloud Engineering
-- AWS Cloud Infrastructure
-- Infrastructure as Code
-- CI/CD Automation
-- Cloud Security
-- Network Automation
+---
 
-### 📂 Featured Projects
+### 🛠️ Technical Stack
 
-- CI/CD Docker Pipeline
-- AWS Cloud Security Lab
-- Terraform AWS Infrastructure
-- Ansible Automation
-- Python Network Automation
+* **AI & LLMOps:** `Agentic AI` • `CrewAI` • `LangGraph` • `LangChain` • `AWS Bedrock` • `AWS SageMaker` • `RAG Architecture` • `MLflow`
+* **Cloud Platforms:** `AWS (EC2 GPU, VPC, EKS, ECS, IAM, Route53, CloudWatch)` • `Microsoft Azure`
+* **DevOps, IaC & Containers:** `Terraform` • `Ansible` • `Docker` • `Kubernetes` • `Jenkins` • `GitHub Actions` • `Git`
+* **Vector Databases:** `Pinecone` • `AWS OpenSearch` • `Milvus`
+* **Scripting & OS:** `Python (Boto3, Netmiko)` • `Bash / Shell Scripting` • `Linux (Ubuntu, RHEL)`
+* **Networking & Zero-Trust Security:** `VPC Peering` • `Transit Gateway` • `BGP` • `VPN (IPsec/SSL)` • `Firewalls` • `IAM Policies`
 
-### 📫 Connect
+---
 
-- LinkedIn: https://www.linkedin.com/in/neha-afridi-634289409/
-- GitHub: https://github.com/nehaafridi
+### 📂 Featured Repositories & Architecture Labs
+
+* 🔹 **[aws-devops-portfolio](https://github.com)** – End-to-end DevOps and Cloud portfolio covering AWS infrastructure, Terraform modules, Ansible automation, Docker, Kubernetes, and cloud security best practices.
+* 🔹 **[terraform-aws-infrastructure](https://github.com)** – Production-ready Infrastructure as Code (IaC) templates for provisioning secure, highly available AWS VPCs, subnets, and compute clusters.
+* 🔹 **[ci-cd-docker-pipeline](https://github.com)** – Automated CI/CD deployment pipeline integrating container builds, security checks, and zero-downtime orchestration.
+* 🔹 **Agentic AI & RAG Infrastructure (Upcoming)** – Multi-agent compliance automation workflow built with LangGraph/CrewAI and deployed on AWS Bedrock with Pinecone vector search.
+
+---
+
+### 📫 Let's Connect
+
+* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* 📧 **Email:** [neha.afridi.it@gmail.com](mailto:neha.afridi.it@gmail.com)
+* 📍 **Location:** Delhi NCR, India (Open to Relocation: Dubai / UAE / Global Remote)
